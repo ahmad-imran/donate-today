@@ -118,3 +118,99 @@ body {
 #card3 {
     background-color: #fff4d6;
 }
+
+.container5 {
+    display: flex;
+    margin-top: 5%;
+
+}
+
+.container5 img {
+    width: 80%;
+    border-radius: 10px;
+}
+
+.header-text4 {
+    font-size: 50px;
+}
+
+.cont5-des {
+    margin-bottom: 5%;
+}
+
+.contribute-button {
+    text-decoration: none;
+    background-color: tomato;
+    color: white;
+    padding: 15px 30px;
+    border-radius: 10px;
+}
+
+.half-width {
+    width: 50%;
+    padding-left: 7%;
+}
+
+.container6 {
+    display: flex;
+    padding-right: 5%;
+    margin-top: 5%;
+}
+
+.half-width2 {
+    width: 50%;
+
+}
+
+.container6 img {
+    width: 80%;
+    border-radius: 10px;
+}
+
+.container7 {
+    margin-top: 5%;
+    text-align: center;
+}
+
+.container8 {
+    margin-top: 8%;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+
+}
+
+.sub-button {
+    text-decoration: none;
+    background-color: tomato;
+    padding: 10px 40px;
+
+
+}
+
+.input-sub {
+    padding: 10px 40px;
+}
+
+.bg-color {
+    background-color: #fff4d6;
+    width: 600px;
+    padding: 100px;
+}
+
+.container9 {
+    margin-top: 8%;
+    text-align: center;
+    height: 200px;
+    background-color: black;
+}
+
+.footer-h {
+    color: tomato;
+    padding-top: 5%;
+
+}
+
+.motto {
+    color: white;
+}
